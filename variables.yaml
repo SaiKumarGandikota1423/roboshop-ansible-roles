@@ -1,5 +1,16 @@
 MONGODB_HOST: mongodb.devopsawscloud.shop  # submit your host
 
+# MONGODB_HOST: mongodb.daws76s.online # submit your host
+REDIS_HOST: redis.devopsawscloud.shop
+MYSQL_HOST: mysql.devopsawscloud.shop
+RABBITMQ_HOST: rabbitmq.devopsawscloud.shop
+CATALOGUE_HOST: catalogue.devopsawscloud.shop
+USER_HOST: user.devopsawscloud.shop
+CART_HOST: cart.devopsawscloud.shop
+SHIPPING_HOST: shipping.devopsawscloud.shop
+PAYMENT_HOST: payment.devopsawscloud.shop
+DISPATCH_HOST: dispatch.devopsawscloud.shop
+
 
 # MONGODB_HOST: mongodb.daws76s.online # submit your host
 # REDIS_HOST: redis.daws76s.online
